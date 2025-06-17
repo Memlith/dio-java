@@ -6,6 +6,14 @@
   "configurations": [
     {
       "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "fundamentos_do_java_3e12db4b",
+      "args": "21 Java"
+    },
+    {
+      "type": "java",
       "name": "Desafio",
       "request": "launch",
       "mainClass": "Desafio",
