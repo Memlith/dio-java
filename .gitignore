@@ -23,13 +23,8 @@
 hs_err_pid*
 replay_pid*
 
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-!*.code-workspace
+#vscode config files
+.vscode/
 
 # Built Visual Studio Code Extensions
 *.vsix
