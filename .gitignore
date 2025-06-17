@@ -1,7 +1,3 @@
-# Desafios
-/desafio_sintaxe
-
-
 # Compiled class file
 *.class
 
@@ -28,3 +24,6 @@ hs_err_pid*
 replay_pid*
 
 .fake
+
+# Desafios
+/desafio_sintaxe
