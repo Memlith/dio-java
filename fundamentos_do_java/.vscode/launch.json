@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Desafio",
+      "request": "launch",
+      "mainClass": "Desafio",
+      "projectName": "fundamentos_do_java_3e12db4b"
+    },
+    {
+      "type": "java",
       "name": "OperadoresAtribuicao",
       "request": "launch",
       "mainClass": "OperadoresAtribuicao",

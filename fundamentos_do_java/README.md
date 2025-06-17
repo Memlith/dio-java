@@ -1,18 +1,14 @@
-## Getting Started
+## Desafio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. ( DONE ) escreva m codigo que recebe o nome e ano de nascimento de alguem e imprima na tela a seguinte mensagem: "ola 'fulano'
+   voce tem 'x' anos".
 
-## Folder Structure
+2. escreva um codigo que receba o tmamnho de um lado do quadrado e calcule sua area e exiba na tela.\
 
-The workspace contains two folders by default, where:
+   - formula area = lado x lado
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+3. escreva um codigo que receba a base e a altura de um retangulo e calcule sua area e exiba na tela.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+   - formula area = base x altura
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+4. escreva um codigo que receba o nome e idade de 2 pessoas e calcula adiferenca de idade entre elas.
