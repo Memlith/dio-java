@@ -23,7 +23,16 @@
 hs_err_pid*
 replay_pid*
 
-.fake
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+!*.code-workspace
+
+# Built Visual Studio Code Extensions
+*.vsix
 
 # Desafios
-/desafio_sintaxe/
+/desafio_sintaxe
