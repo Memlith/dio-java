@@ -30,4 +30,6 @@ replay_pid*
 *.vsix
 
 # Desafios
-/desafio_sintaxe
+/desafio-sintaxe
+/desafio-controle-candidatos
+/cadastro-cliente
