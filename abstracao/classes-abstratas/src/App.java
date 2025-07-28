@@ -1,15 +1,12 @@
 
 public class App {
+
     public static void main(String[] args) throws Exception {
-        var male = new Person();
-        male.name = "Caio";
-        male.age = 21;
-        var female = new Person();
-        female.name = "Jamilly";
-        female.age = 20;
-        System.out.println("Male name: "+male.name);
-        System.out.println("Male age: "+male.age);
-        System.out.println("Female name: "+female.name);
-        System.out.println("Female age: "+female.age);
+        var male = new Person("Caio", 21);
+        male.incAge();
+        var female = new Person("Jamilly", 20);
+        female.incAge();
+        System.out.println("Male nome: " + male.getName() + " idade: " + male.getAge());
+        System.out.println("Female nome: " + female.getName() + " idade: " + female.getAge());
     }
 }
