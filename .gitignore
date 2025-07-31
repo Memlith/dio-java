@@ -30,5 +30,5 @@ replay_pid*
 *.vsix
 
 # Desafios
-desafio-sintaxe-java/
-desafio-controle-fluxo/
+desafios/
+
